@@ -1,0 +1,6 @@
+{
+  "name": "Recipe Scaler",
+  "description": "Easily scale recipe ingredient quantities up or down based on your desired number of servings with persistent storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
